@@ -1,0 +1,16 @@
+.bgColor{
+    background-color: #16161d;
+}
+.formStyle{
+    width: 35%;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: auto;
+    border: solid 1px white;
+    border-radius: 10px;
+}
+.outlineColor{
+    border-bottom: solid 1px #e6e6e6;
+}
